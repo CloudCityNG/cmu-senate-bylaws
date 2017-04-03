@@ -164,7 +164,7 @@ A.  Student Senate shall consist of the following types of members:
     #.  A meeting at which a Student Senator (or their designated proxy) or a Member-at-Large is not present for a scheduled roll call during a regular Student Senate meeting shall count as one-half (1/2) absence for that Student Senator or Member-at-Large.
     #.  There may not be more than two (2) scheduled roll calls during a regular Student Senate meeting.
     #.  A Student Senator may accrue two (2) absences from regular meetings of the Student Senate standing committee of which s/he is a member.
-    #.  A Student Senator may send a proxy to a regular meeting of Student Senate no more than two (2) times per half session..
+    #.  A Student Senator may send a proxy to a regular meeting of Student Senate no more than two (2) times per half session.
     #.  A Student Senator may have absences removed from his or her record upon completion of their Engagement Hour requirements. Thereafter, one-half (1/2) absence will be removed for every additional completion of one (1) Engagement Hour. Absences may also be removed by other participation in the activities of Student Senate as deemed appropriate by the Chair of Student Senate. This participation must occur within thirty (30) days of the recorded one-half (1/2) absence.
 #.  Removal of Student Senators for Attendance Violations:
     1.  Three (3) absences from regular meetings of Student Senate or three (3) absences from regular meetings of a Student Senator's standing committee, during a single half session of Student Senate, count as grounds for the removal of that Student Senator from Student Senate.
@@ -282,7 +282,7 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
             (#)  There are three (3) voting options during an election: a vote in favor of a particular candidate, an abstention, and a vote of no confidence. A vote of no confidence is a vote against all candidates who are in the running for the relevant office.
             (#)  The voting procedure for filling each office shall be kept separate.
         #.  The candidate receiving the majority of the available votes shall be the new officer.
-            (i)  Abstensions shall not count toward the majority.
+            (i)  Abstentions shall not count toward the majority.
             (#)  If no candidate receives a majority of the available votes, and a majority of the available votes are not votes of no confidence, then a run-off election shall be held. The meeting chair shall decide which candidates' names shall stand for the run-off election. By way of a majority vote, Student Senate may add another candidate's name to the run-off ballot.
             (#)  This process shall continue until a either single candidate receives a majority of the available votes, or a majority of the available votes are votes of no confidence.
 #.  Duties and Powers of the Chair of Student Senate:
